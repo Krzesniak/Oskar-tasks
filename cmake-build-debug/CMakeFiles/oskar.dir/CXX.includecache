@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/peter/CLionProjects/oskar/zad5/FileReader.cpp
+FileReader.h
+C:/Users/peter/CLionProjects/oskar/zad5/FileReader.h
+iostream
+-
+fstream
+-
+
+C:/Users/peter/CLionProjects/oskar/zad5/FileReader.h
+
